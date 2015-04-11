@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhinoSketchfabGH", "RhinoSketchfabGH\RhinoSketchfabGH.csproj", "{17023303-F630-4DA7-AF39-61EDE0D60D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug32|Any CPU = Debug32|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17023303-F630-4DA7-AF39-61EDE0D60D1F}.Debug32|Any CPU.ActiveCfg = Debug32|Any CPU
+		{17023303-F630-4DA7-AF39-61EDE0D60D1F}.Debug32|Any CPU.Build.0 = Debug32|Any CPU
+		{17023303-F630-4DA7-AF39-61EDE0D60D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17023303-F630-4DA7-AF39-61EDE0D60D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
